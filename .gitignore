@@ -10,3 +10,9 @@
 project/project/
 project/target/
 target/
+
+# saved posts
+output/*.json
+
+# worksheets
+*.sc

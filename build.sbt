@@ -8,6 +8,7 @@ lazy val root = (project in file("."))
   )
 
 libraryDependencies += "com.lihaoyi" %% "requests" % "0.7.1"
+libraryDependencies += "com.lihaoyi" %% "ujson" % "2.0.0"
 
 libraryDependencies += "org.scalactic" %% "scalactic" % "3.2.13"
 libraryDependencies += "org.scalatest" %% "scalatest" % "3.2.13" % "test"
